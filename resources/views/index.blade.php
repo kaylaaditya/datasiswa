@@ -29,6 +29,7 @@
             <!-- <caption>Tabel Siswa</caption> -->
             <thead class="table-dark">
                 <tr>
+                    <th scope="col">Id</th>
                     <th scope="col">Nis</th>
                     <th scope="col">Nama</th>
                     <th scope="col">Jenis Kelamin</th>
@@ -75,9 +76,6 @@
                     },
                     {
                         data: 'tinggi_badan'
-                    },
-                    {
-                        // data: ''
                     },
                 ],
 
